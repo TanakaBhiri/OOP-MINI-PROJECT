@@ -1,0 +1,1 @@
+public class Book extends LibraryItem { public Book(String id,String title){super(id,title);} public int loanPeriodDays(){return 21;} }
